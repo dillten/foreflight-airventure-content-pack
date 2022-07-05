@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>AirVenture 2022 Offers</name>
+    <description>FBO Info and Discounts</description>
+    <Style id="icon-1498-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson-nodesc">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p style="font-size: 2em; font-family:-apple-system;"><h3>$[name]</h3></p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p style="font-size: 2em; font-family:-apple-system;"><h3>$[name]</h3></p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1200-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<p style="font-size: 2em; font-family:-apple-system;"><h3>$[name]</h3></p>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1200-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>OSH Special Offers</name>
+      <Placemark>
+        <name>ARR</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/aurora-il/">https://revvaviation.com/locations/aurora-il/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.4660789,41.7681269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DKB</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - 8 a.m. - 5 p.m.; Call for after hours services<br><br>Offer - Visit DKB for OSH specials, July 20-31 and take advantage of our competitive fuel prices. DeKalb Flight Center will be offering free Hot Dogs, Chips, and Water along with Edible Barbed Wire in the town where it was invented. Also, see the historic WWII TBM Avenger & TDR-1 Drone! For more information contact the airport by phone at <a href="tel:(815)748-8102">(815)748-8102</a> or visit their website <a href="https://www.cityofdekalb.com/1284/DeKalb-Taylor-Municipal-Airport">https://www.cityofdekalb.com/1284/DeKalb-Taylor-Municipal-Airport</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.7112082,41.9314722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DPA</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - 24 Hours<br><br>Offer - The DuPage Flight Center and DuPage Airport Authority would like to welcome anyone traveling too EAA this year. If you will be passing through the Chicagoland area we are your best option in town. We will provide Self Service Pricing for Full Service 100LL Fuel on the Flight Center Ramp from Tuesday, July 19th through Wednesday August 3rd. Let us know you are here for the “Oshkosh Special” and receive the self-service price for full service 100LL fuel on the Flight Center Ramp only. Our café will also be offering discounts on food so you can grab and go as well.<br><br>We have 4 runways, the longest being 7571 ft, 24 hour tower staffing, over 1 million sq feet of ramp with tie downs if you need to remain overnight. We also have plenty of transient hangar space available if the weather turns. No ramp fees for single engine pistons and only a $7.00 overnight charge if you decide to stay outside on the ramp.<br><br>Amenities include an onsite café, pilot briefing lounge, Airventure NOTAM copies, along with window placards, and an open gym with showers.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.2549079,41.9067614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>06C</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/schaumburg-il/">https://revvaviation.com/locations/schaumburg-il/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -88.1023632,41.9908508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OXI</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Offering fresh donuts and hot dogs. 24-hr fuel available with credit card. Courtesy vehicle also available. For more info visit <a href="https://www.starkecountyairport.com ">www.starkecountyairport.com</a> or contact Pam Beharry by phone at (574)772-5001.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.6595993,41.3280792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PPO</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Offer - 100LL full serve at self-serve price (.15 cent discount) – 90REC is only self-serve and will be reduced .15 during the week of AirVenture.<br><br>Other Services:<br><br>24/7 access to shower, rest room, fridge, microwave and a couple sofas in case you need to spend the night or wait out weather. Accessible on east side of field by self-serve pump<br>10 a.m. and 2 p.m. (CDT) on Monday - Friday we’ll have the grill hot with food available – donations appreciated. Weekends there will be food but less options.<br>Courtesy car available<br>Hangars – we have ONE empty hangar - $10/night – call ahead to reserve.<br>Lunch on the Fly – if you’re headed to Oshkosh early, stop by for our monthly “Lunch on the Fly” July 22, serving from 11 am to 1 pm Central.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.734169,41.572777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VPZ</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Conveniently located 15 miles from the southern tip of Lake Michigan, and 165 miles from Oshkosh, offers pilots flying to and from AirVenture a 15 cent per gallon discount on Full Service Avgas, and a 20 cent per gallon discount on Self Service Avgas, both from the airport's posted Full Service price, free overnight parking, and courtesy transportation to area lodging. In addition, EAA Chapter 104 will again be sponsoring its "Food & Fuel" fund raiser, offering brats, burgers, hot dogs, fruit, chips and beverages from 10:00 AM to 2:30 PM. Food will be available (weather permitting) July 22nd through July 24th, 2022. The special airport services and fuel discount will be available July 22nd through August 1, 2022. For more information, visit our website at <a href="https://www.vpz.org">www.vpz.org</a>, or call the airport at <a href="tel:800-462-6508">800-462-6508</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -87.0093575,41.4495563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CIN</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Located 300 nautical miles southwest of KOSH. Enjoy cookies and ice cream from July 16 to August 2. For more information visit <a href="http://www.carrollaviation.com">www.carrollaviation.com</a> or call <a href="tel:7127924980">(712)-792-4980</a>. Courtesy cars are available</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -94.7859342,42.0464705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CBF</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/council-bluffs-ia/">https://revvaviation.com/locations/council-bluffs-ia/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -95.7590809,41.2608342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DVN</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/davenport-ia/">https://revvaviation.com/locations/davenport-ia/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -90.5878972,41.6101162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MUT</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/muscatine-ia/">https://revvaviation.com/locations/muscatine-ia/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -91.146346,41.36267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUX</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/sioux-city-ia/">https://revvaviation.com/locations/sioux-city-ia/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -96.3787307,42.4008903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BTL</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Take advantage of heavily discounted fuel rates and experience world-class meals prepared by WACO Kitchen! Featuring farm-to-table American European cuisine and observation windows into WACO Aircraft’s biplane manufacturing facility, WACO/Centennial is the ideal destination along your route to/from KOSH.<br><br>More information about our aircraft, FBO and restaurant can be found at: <a href="https://www.wacoaircraft.com/">wacoaircraft.com</a>, <a href="https://www.wacokitchen.com/">wacokitchen.com</a>, and <a href="https://www.centennialair.com/">centennialair.com</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -85.2577043,42.2992106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JYM</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Offer - Free tie down, Complimentary coffee, water, soda and snacks. Free WiFi, TV and Cuddles with our Airport cat LUCY! Crew car available<br><br>For more information email <a href="mailto:Hillsdale_Airport@cityofhillsdale.org">Hillsdale_Airport@cityofhillsdale.org</a> or call <a href="tel:5177974833">(517)797-4833</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -84.5849075,41.9223899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BJI</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Offer:<br><br>$0.30/per gallon discount on fuel to all EAA members (100LL and Jet A)<br>Maintenance services, hangar space, and crew cars available for use on a first-come, first-served basis.<br>Ramp parking, tie-down service, and comfortable pilot's lounge with free WIFI, drinks, light snacks, and shower facilities for a reduced facility fee.<br>The discounted facility fees are as follows:<br><br>Single Engine- No fee<br>Twin Piston- $20.00 Waived with purchase of 20 gallons of fuel<br>Turbo Prop- $30.00 Waived with purchase of 30 gallons of fuel<br>Jet- $40.00 Waived with purchase of 40 gallons of fuel<br>All discounts are valid from July 21st- August 1st, 2022 and will be received by those who present valid proof of EAA membership. For more information or questions please contact Bemidji Aviation FBO at <a href="tel:2187511880">(218) 751-1880</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -94.9336535,47.5065728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OKF</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Attention Oshkosh travelers!! Stop at OFK during your Oshkosh AirVenture commute. No landing fees, ramp or tie down fees. OFK will be opened extended hours to accommodate travelers. Hospitality snacks, hotdogs, chips and drinks provided. We can help with transportation to and from lodging if needed. For more information please call <a href="tel:4023797810">(402) 379-7810</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -97.4277114,41.9886207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SNY</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Offer - Fuel Discounts, Full Service Fuel while you cool down inside the nice first class terminal building. We will have food/snacks and cold drinks available. Lots of hangar space for travelers that want to keep their aircraft inside if they want to stay overnight. We have courtesy cars and deals with Hotels. Marriott $86 and Comfort Inn & Suites & $74 a night. Plenty of outside area to camp and shower inside the terminal building. We are open from 7 am to 6 p.m. Mountain Time but can accommodate travels outside those times. Call us at <a href="tel:3082545058">308-254-5058</a> or send an email <a href="mailto:LNLAVIATION@GMAIL.COM">LNLAVIATION@GMAIL.COM</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -102.9834213,41.1030845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MSS</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - 7:30 am - 5:00 pm Monday through Friday<br><br>Offer - MSS will waive landing fees for all Oshkosh event travelers purchasing fuel. Call <a href="tel:3157697605">315-769-7605</a> with any questions.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -74.8424224,44.9334487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIS</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - N/A<br><br>Offer - Bismarck Aero Center welcomes all Oshkosh aviators to Bismarck, ND! Stop in and see us on your way to the EAA Air Venture Oshkosh 2022. We are a full-service, 24/7 FBO with amenities such as Wi-Fi, snacks, complimentary crew cars, and a relaxing sleep room for those longer or over-night stays. Ask for our “Special Oshkosh Discount”! Call us at <a href="tel:7012234754">701.223.4754</a> or find out more about us at <a href="http://www.bismarckaero.com/">www.Bismarckaero.com</a>. Let us be your one-stop destination for all your aviation needs.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -100.7572447,46.77519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AOH</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - Contact For Service<br><br>(KAOH) FULL RUNWAY CLOSURE JULY 11th-31st. Runway 10/28 Lighting Construction. When full runway closure if lifted, a 30 minute notice is required for all arriving/departing aircraft. <a href="tel:4192273225">419-227-3225</a> or <a href="tel:5677129529">567-712-9529</a> for more information. Our Apologies. Please check your NOTAM's.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -84.0267798,40.7048195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MFD</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Niss Aviation is Mid-Ohio’s New Premier FBO. We are waiving all landing and facility fees for those traveling to Airventure! Both full-service and self-serve fuel options available, along upgraded facilities to make your visit convenient and memorable.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -82.5127105,40.8157539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JVL</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - Get 50 cents per gallon off avgas for EAA members flying to and from AirVenture on July 23-31. Must show EAA membership card for savings. FMI: <a href="https://revvaviation.com/locations/janesville-wi/">https://revvaviation.com/locations/janesville-wi/</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -89.0413589,42.6155166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PNA</name>
+        <description><![CDATA[<p style="font-size: 2em; font-family:-apple-system;">Hours - TBD<br><br>Offer - We are offering an AVGAS discount for customers flying to Oshkosh a $0.35 discount on fuel. We have 100LL and Jet A. We also have maintenance services and a crew car to run to town for breakfast, lunch, or supper. We have a nice pilot’s lounge for resting with drinks and light snacks. We offer friendly, professional services, and have a huge ramp for overnight parking if needed and camping at plane if needed with no shower facilities.<br><br>Our website is www.emblemaviation.com and our point of contact is myself, John Douglas at <a href="tel:3073672290">307-367-2290</a> or cell <a href="tel:3074137888">307-413-7888</a>.</p>]]></description>
+        <styleUrl>#icon-1498-097138-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -109.807091,42.795502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
