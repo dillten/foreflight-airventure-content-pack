@@ -10,8 +10,8 @@ Credit to EAA for the information, thanks to the participaing FBO's, and to [For
 
 To install this content pack into ForeFlight, click this link while on your iPad or iPhone and choose to 'Open with ForeFlight' if prompted.
 
-**[Install to ForeFlight](https://foreflight.com/content?downloadURL=https://github.com/dillten/foreflight-airventure-content-pack/archive/v1.zip)
-**
+**[Install to ForeFlight](https://foreflight.com/content?downloadURL=https://github.com/dillten/foreflight-airventure-content-pack/releases/download/v1/osh-ff-pack-v1.zip)**
+
 You can then view the content about each participating airport by activating the custom layer in your maps view. Tapping on a waypoint will bring up a window where you can select 'More Details' to view the specific offers for that airport.
 
 ![img](docs/IMG_1952.PNG) ![img](docs/IMG_1954.PNG)
