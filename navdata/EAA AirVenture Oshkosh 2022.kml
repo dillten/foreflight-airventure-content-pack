@@ -295,6 +295,36 @@
           </coordinates>
         </Point>
       </Placemark>
+          <Placemark>
+      <name>YKN</name>
+      <description><![CDATA[Offer - FREE FOOD AND DRINKS from July 21 - 31. Avgas fuel discount from July 21 – 31. 24-hour charge card fuel for Avgas and JetA, 24-hour restrooms, Internet, WiFi, cable TV, shower, on-airport camping, free tie-downs, ramp space for large aircraft (i.e., DC-3s), and 2 crew cars.<br><br>Contact information: City of Yankton, Mike Roinstad, Airport Supervisor, <a href="tel:6056619223">605-661-9223</a>; <a href="mailto:mroinstad@cityofyankton.org">mroinstad@cityofyankton.org</a><br><br>Local hotels - Kelly Inn Best Western (shuttle) 605-665-2900; Holiday Inn Express (605-665-3177); Econo Lodge (605-689-3400); Days Inn (605-665-8717).]]></description>
+      <styleUrl>#icon-1498-097138-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -97.3824157,42.9104995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LBX</name>
+      <description><![CDATA[Offer - Experience Texas hospitality and fast refuel with Avgas 100LL Self-serve price off of the truck while you visit the Runway Café for a great burger or seafood. Triple AVTRIP points or a cowboy hat with fuel purchase. Overnight hangar space available. Great facilities and ample ramp space with no tie-down or landing fees. We can help with reservations at nearby hotels and help to arrange transportation. Visit the nearby Buc-ees with our courtesy vehicle. Come see us!! For more information email <a href="mailto:amym@brazoria-county.com">amym@brazoria-county.com</a>.]]</description>
+      <styleUrl>#icon-1498-097138-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -95.4590841,29.1109467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RKS</name>
+      <description><![CDATA[Offer - Make Sweetwater Aviation in Rock Springs, WY your best stop on your way to or from Air Venture Oshkosh 2022. Learn why RKS and Sweetwater Aviation have been the choice of over 300 aircraft each year during Oshkosh. We are located in gorgeous Southwestern Wyoming right along Interstate 80, open daily from 0400 – 2200 (after hours can be arranged) to serve all of your needs in our brand new General Aviation facility. Oshkosh 2022 Specials (July 16th – August 7th)<br><br>$0.25 off per gallon on 100LL<br>6 AvFuel AvTrip Points per Gallon (100LL & Jet A), 10 Points per Gallon on Top Offs<br>10% Off our new Hats and T-Shirts<br>Large Apron with many Tiedowns (Please bring your own ropes)<br>50% off Piston Hanger Space (Single: $25/night Twin: $50/night) First Come, First Serve<br>Free Cookout (Hamburgers/Hot Dogs/Water) daily from 1000 – 2000. Just tell us on UNICOM you are hungry and we will fire up the Traeger!<br>Free Coffee, Ice, & Water Everyday<br>Free WiFi & DirectTV<br>Courtesy Cars Available (First Come, First Serve, 2 Hour Limit)<br>(2) Rental Car Agencies on the Field: Avis (307-362-5599), Budget (307-362-7251)<br>For more information…visit us at <a href="https://www.SweetwaterFBO.com">www.SweetwaterFBO.com</a><br>Contact us at <a href="tel:3073500723">(307)350-0723</a> or <a href="mailto:dbrubaker@flyrks.com">dbrubaker@flyrks.com</a>]]></description>
+      <styleUrl>#icon-1498-097138-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -109.0718882,41.5988254,0
+        </coordinates>
+      </Point>
+    </Placemark>
     </Folder>
   </Document>
 </kml>
